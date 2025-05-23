@@ -1,4 +1,4 @@
-## Hello there, welcome to my profile 👋
+## Hello there, welcome 👋
 
 I work on Fullstack/DevOps/AI Engineering projects, with a background in computer science and IT experience in private banking, 
 healthcare and academic environments, based in Geneva, Switzerland. 
