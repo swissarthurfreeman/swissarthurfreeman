@@ -1,6 +1,6 @@
 ## Hello there, welcome to my profile 👋
 
-I work on Fullstack/DevOps/AI Engineering projects, with a background in computer science and experience in private banking, 
+I work on Fullstack/DevOps/AI Engineering projects, with a background in computer science and IT experience in private banking, 
 healthcare and academic environments, based in Geneva, Switzerland. 
 
 - 🔭 I’m currently working on a universal ticketing solution integrating legacy software into a hospital environment.
